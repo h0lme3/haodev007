@@ -80,32 +80,8 @@ Recently, I have worked on several cryptocurrency projects piling up great knowl
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 🔗 Links
-
-[![portfolio](https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://tapajyoti-bose.vercel.app/)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ming-haoqing-5aaa92230/)
-[![xing](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Ming_Haoqing)
-[![telegram](https://img.shields.io/badge/Telegram-28B6F6?style=for-the-badge&logo=telegram&logoColor=white)]("https://t.me/holmes007)
-[![skype](https://img.shields.io/badge/skype-470137?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/GkqKZ97593t4)
-[![discord](https://img.shields.io/badge/Discord-5340ff?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/936845479021539338)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/haodev007)
-
 <hr>
 <br>
-<div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" />
-⚡A clean responsive code that will be well displayed in any browser and adapted to any device of any resolution, be it a phone or a tablet, or a widescreen device.<br>
-⚡Fast response and good communication skills.<br>
-⚡well-organized/commented code.<br>
-⚡SEO friendly, semantic markup, and load speed optimization.<br>
-⚡Testing and cross-browser / cross-device compatibility.<br>
-<p>
-    🔭I am a responsible and purposeful person, I can easily interact with the development team, because I have experience working in a team, I can clearly follow the deadline without compromising the quality of the code.
-Close contact with you is very important for me, to avoid misunderstandings in the development process and to save time on the long end.
-Courage, It's not too late to build a better world.
-Alone we can do so little; together we can do so much.    
-</p>
-</div>
 
 <hr/>
 
