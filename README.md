@@ -18,7 +18,6 @@ Recently, I have worked on several cryptocurrency projects piling up great knowl
 <h2 align="center">🔥 My skills 🔥</h2>
 <hr>
 <br>
-## 🛠️ Skills
 
 ### Languages
 
