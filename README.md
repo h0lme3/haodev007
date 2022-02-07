@@ -41,7 +41,7 @@ Recently, I have worked on several cryptocurrency projects piling up great knowl
 ![vue](https://img.shields.io/badge/Vue-1ca010?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF)
 ![nuxt](https://img.shields.io/badge/Nuxt-000000?style=for-the-badge&logo=nuxtdotjs&logoColor=FFFFFF)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![styled-components](https://img.shields.io/badge/Styled_Components-4285F4?style=for-the-badge&logo=styled_components&logoColor=white)
+![styled-components](https://img.shields.io/badge/Styled_Components-4285F4?style=for-the-badge&logo=styled-components&logoColor=white)
 ![chakra-ui](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
