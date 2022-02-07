@@ -28,7 +28,7 @@ Recently, I have worked on several cryptocurrency projects piling up great knowl
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![golang](https://img.shields.io/badge/Golang-28B6F6?style=for-the-badge&logo=golang&logoColor=white)
+![golang](https://img.shields.io/badge/Golang-28B6F6?style=for-the-badge&logo=go&logoColor=white)
 ![rust](https://img.shields.io/badge/Rust-a01058?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Front-End Development
@@ -38,10 +38,10 @@ Recently, I have worked on several cryptocurrency projects piling up great knowl
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![react-router](https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router&logoColor=61DAFB)
 ![angular](https://img.shields.io/badge/Angular-CA4245?style=for-the-badge&logo=angular&logoColor=61DAFB)
-![vue](https://img.shields.io/badge/Vue-1ca010?style=for-the-badge&logo=vue&logoColor=FFFFFF)
+![vue](https://img.shields.io/badge/Vue-1ca010?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF)
 ![nuxt](https://img.shields.io/badge/Nuxt-000000?style=for-the-badge&logo=nuxtdotjs&logoColor=FFFFFF)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![styled-components](https://img.shields.io/badge/Styled-Components-4285F4?style=for-the-badge&logo=styled-components&logoColor=white)
+![styled-components](https://img.shields.io/badge/Styled_Components-4285F4?style=for-the-badge&logo=styled_components&logoColor=white)
 ![chakra-ui](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
