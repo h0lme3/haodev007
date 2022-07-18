@@ -1,1 +1,1 @@
-
+<img align="center" alt="GIF" src="./img/holmes.jpg" width="100%" />
